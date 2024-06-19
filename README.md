@@ -18,7 +18,7 @@ This project uses the GitHub API to search for users with an interest in Machine
 
 To get a local copy up and running, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/yourusername/your-repo.git`
+1. Clone the repository: `git clone [https://github.com/christoumunna/PyGitHub.git](https://github.com/christoumunna/PyGitHub.git)`
 2. Install the required libraries: `pip install pandas PyGithub`
 3. Replace the placeholder in the `g = Github("xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx")` line with your GitHub access token.
 4. Run the script.
